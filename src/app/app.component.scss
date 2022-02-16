@@ -1,0 +1,21 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.container-center {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.title {
+  padding-bottom: 10px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+}
